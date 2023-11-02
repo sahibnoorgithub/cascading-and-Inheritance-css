@@ -1,0 +1,80 @@
+    /* Last Rule  */
+
+    /* p{
+        color: yellow;
+    }
+    p{
+        color:  red;
+    } */
+ 
+    /* h1{
+        color:  red;
+    }
+ 
+    h1{
+        color:  green;
+    }
+    h1{
+        color:  purple;
+    } */
+
+
+
+    /* Specificity  */
+
+
+    /* *{
+        color:  green;
+    }
+
+    p{
+        color:  red;
+    }
+    #para2{
+        color:  yellow;
+    } */
+
+
+     /* ##### Important ################## */
+
+    /* *{
+        color:  green;
+    }
+
+    p{
+        color:  red !important;
+    }
+    #para2{
+        color:  yellow;
+    } */
+
+/* *{
+    color: red;
+}
+h1{
+    color: darkblue !important;
+}
+
+#main-heading{
+    color: blueviolet;
+} */
+
+
+
+/* INheritance  */
+
+/* body{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    padding: 40px;
+    border: 1px solid black;
+}
+.page{
+    color: blue;
+    border: inherit;
+    padding: inherit;
+}
+.page h1,p{
+    padding: inherit;
+    border: inherit;
+} */
